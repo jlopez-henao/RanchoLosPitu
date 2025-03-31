@@ -6,7 +6,6 @@ Rancho los Pitufos is a real restaurant. This is my first website and I have clo
 
 Run the following commands in your terminal to run this flask application:
 
-git clone https://github.com/sinisabubonja/pizzabubonjas.git <br/>
 python3.6 -m venv RanchoLosPitu <br/>
 cd RanchoLosPitu <br/>
 source bin/activate<br/>
